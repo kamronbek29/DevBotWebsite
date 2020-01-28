@@ -75,7 +75,7 @@ p {
     margin-left: -15px;
 }
 
-section.price, section.order, section.features p {
+section.price, section.order, section.features, section.footer p {
     font-size: 18px;
     line-height: 1.7;
     text-align: center;
@@ -115,4 +115,8 @@ section.price {
 .btn-color {
     color: black;
     background: gray;
+}
+
+.nav-bottom {
+    color: grey;
 }
